@@ -1,0 +1,27 @@
+.nav{
+display: flex;
+background-color: hotpink;
+justify-content: space-between;
+}
+.nav-links{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    gap: 20px;
+    align-items: center;
+    margin: 10px;
+    float: right;
+    font-family: cursive;
+    
+}
+.btn{ border-radius: 2px;
+    size: 20px;
+    color:white;
+background-color: blue;
+height: 30px;
+width: 90px;
+font-family: cursive;}
+    h1{color: white;}
+
+
+a{text-decoration: none;}
